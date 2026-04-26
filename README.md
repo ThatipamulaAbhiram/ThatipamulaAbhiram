@@ -15,11 +15,11 @@ Building real-world data projects | Python, SQL, ML
 
 ## 🔥 Featured Project
 
-### 🛒 Walmart Sales Dashboard
-
-* Built interactive dashboard using Streamlit
-* Performed sales trend analysis
-* Generated business insights
+### 🛒 Walmart Sales Dashboard  
+- Built interactive analytics dashboard using Streamlit  
+- Analyzed sales trends, store performance, and KPIs  
+- Implemented ML-based sales forecasting  
+- Enabled data-driven decision making  
 
 👉 https://github.com/ThatipamulaAbhiram/walmart-sales-dashboard
 
