@@ -56,3 +56,9 @@
 
 * LinkedIn: https://www.linkedin.com/in/abhiram-thatipamula
 * Email: [abhiramthatipamula16@gmail.com](mailto:abhiramthatipamula16@gmail.com)
+
+
+## ✨ Random Dev Quote  
+
+> 📊 *"Without data, you're just another person with an opinion."*  
+> — W. Edwards Deming
