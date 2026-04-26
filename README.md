@@ -43,7 +43,16 @@
 
 ---
 
-## 🌐 Connect
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhiram-thatipamula-6204152a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhiram-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abhiramthatipamula16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 * LinkedIn: https://www.linkedin.com/in/abhiram-thatipamula
 * Email: [abhiramthatipamula16@gmail.com](mailto:abhiramthatipamula16@gmail.com)
