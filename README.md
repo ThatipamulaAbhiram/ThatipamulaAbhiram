@@ -1,15 +1,15 @@
 # Hi, I'm Abhiram 👋
 
-💻 Aspiring Data Analyst | Python | SQL | Machine Learning
+Building real-world data projects | Python, SQL, ML
 📊 Building real-world data projects that solve business problems
 
 ---
 
 ## 🚀 What I Do
 
-* Analyze data using Python & SQL
-* Build dashboards using Streamlit & Plotly
-* Work on real-world datasets (Walmart, Sales, etc.)
+- Build data-driven dashboards to extract business insights  
+- Analyze large datasets using Python & SQL  
+- Apply machine learning models for prediction and forecasting  
 
 ---
 
